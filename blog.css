@@ -86,6 +86,13 @@ header {
 
 .content h2 span {
     color: #7d2ae8;
+    
+    .content h3 {
+    font-size: 35px;
+}
+
+.content h3 span {
+    color: #7d2ae8;
 }
 
 p {
