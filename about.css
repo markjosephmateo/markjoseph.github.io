@@ -151,40 +151,5 @@ header {
     color: #fff;
 }
 
-/* Media Query for Smaller Screens */
-@media (max-width: 320px) {
-    header {
-        padding: 15px;
-    }
-
-    .logo {
-        font-size: 1em;
-    }
-
-    .navigation {
-        display: none;
-    }
-
-    .navigation a {
-        margin-right: 10px;
-    }
-
-    .Home {
-        padding: 15px;
-    }
-
-    .content h2 {
-        font-size: 18px;
-    }
-
-    .content h4 {
-        font-size: 14px;
-    }
-
-    .social-icons a {
-        width: 20px;
-        height: 20px;
-        line-height: 20px;
-        margin-right: 6px;
-    }
+@media (min-width: 320px) and (max-width: 1920px) {
 }
