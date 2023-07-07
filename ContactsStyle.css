@@ -150,3 +150,6 @@ header {
 .social-icons a i {
     color: #fff;
 }
+
+@media (min-width: 320px) and (max-width: 1920px) {
+}
