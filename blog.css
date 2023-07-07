@@ -151,5 +151,5 @@ header {
     color: #fff;
 }
 
-@media (min-width: 320px) and (max-width: 1920px) {
+@media (min-width: 320px) and (max-width: 720px) {
 }
